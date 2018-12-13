@@ -1,0 +1,22 @@
+{
+  "name": "playmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-ianka/PlayMusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-ianka/PlayMusic/issues"
+  },
+  "homepage": "https://github.com/i-ianka/PlayMusic#readme",
+  "dependencies": {
+    "restify": "^7.3.0"
+  }
+}
